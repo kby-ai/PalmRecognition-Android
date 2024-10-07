@@ -19,6 +19,12 @@ We have built `palm print` reocgnition on `Android` native platform by applying 
 `KBY-AI`'s palm recognition(`palm-print/palm-vein`) demo app consists of 2 kinds of part: `ROI` extraction and plam feature matching algorithm.</br>
 > In this repository, we integrated `KBY-AI`'s both `palm print` `ROI` extraction and `palm print` feature matching technology into `Android` native platform.</br>
 
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/25530fbb-a7a6-4c72-b1eb-0bb965c39080" width=400/>
+  <img src="https://github.com/user-attachments/assets/271845a5-21de-4376-a039-8dbbe8138f02" width=400/>
+</p>
+
 - To request a license, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
