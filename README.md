@@ -15,7 +15,7 @@
 ## Overview
 
 Touchless `palmprint` recognition is a biometric technology which provides effective and reliable personal identification in `eKYC` or digital onboarding process.</br>
-We have built `palm print` reocgnition on `Android` native platform by applying `hand landmarking`, `edge detection`, `2D-Gabor filter` and `feature extraction` approaches. we have `palm vein` recognition model trained, as well.</br>
+We have built `palm print` recognition on `Android` native platform by applying `hand landmarking`, `edge detection`, `2D-Gabor filter` and `feature extraction` approaches. we have `palm vein` recognition model trained, as well.</br>
 `KBY-AI`'s palm recognition(`palm-print/palm-vein`) demo app consists of 2 kinds of part: `ROI` extraction and plam feature matching algorithm.</br>
 > In this repository, we integrated `KBY-AI`'s both `palm print` `ROI` extraction and `palm print` feature matching technology into `Android` native platform.</br>
 
