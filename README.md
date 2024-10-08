@@ -23,6 +23,11 @@ We have built `palm print` recognition on `Android` native platform by applying 
   <img src="https://github.com/user-attachments/assets/879d3247-103b-4968-b9d6-86820949bed4" width=700/>
 </p>
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=Z8mIbdopAjc) to see how well our demo app works.</br>
+[![Face Recognition Android](https://www.youtube.com/watch?v=Z8mIbdopAjc/0.jpg)](https://www.youtube.com/watch?v=Z8mIbdopAjc)
+
 - To request a license, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
