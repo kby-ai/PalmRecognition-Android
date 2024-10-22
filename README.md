@@ -26,7 +26,7 @@ We have built `palm print` recognition on `Android` native platform by applying 
 ## Performance Video
 
 You can visit our YouTube video [here](https://www.youtube.com/watch?v=Z8mIbdopAjc) to see how well our demo app works.</br>
-[![Palm Recognition Android](https://www.youtube.com/watch?v=Z8mIbdopAjc/0.jpg)](https://www.youtube.com/watch?v=Z8mIbdopAjc)
+[![Palm Recognition Android](https://img.youtube.com/vi/Z8mIbdopAjc/0.jpg)](https://www.youtube.com/watch?v=Z8mIbdopAjc)
 
 - To request a license, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
